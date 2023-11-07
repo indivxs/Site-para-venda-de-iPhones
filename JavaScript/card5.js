@@ -41,19 +41,19 @@ function closeC5() {
 }
 
 function iphone11() {
-    priceiPhone5.innerHTML = 'R$ 2.280,00'
+    priceiPhone5.innerHTML = 'R$ 2.050,00'
     titlePrice5.innerHTML = 'iPhone 11'
     imageIphone5.src = "..//media/images/iphones/iphone11.png";
 }
 
 function iphone11p() {
-    priceiPhone5.innerHTML = 'R$ 2.600,00'
+    priceiPhone5.innerHTML = 'R$ 2.200,00'
     titlePrice5.innerHTML = 'iPhone 11 Pro'
     imageIphone5.src = "..//media/images/iphones/iphone11pro.png";
 }
 
 function iphone11pm() {
-    priceiPhone5.innerHTML = 'R$ 3.200,00'
+    priceiPhone5.innerHTML = 'R$ 2.850,00'
     titlePrice5.innerHTML = 'iPhone 11 Pro max'
     imageIphone5.src = "..//media/images/iphones/iphone11pm.png";
 }

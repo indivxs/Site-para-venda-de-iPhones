@@ -39,7 +39,7 @@ addInfo2.style.display = "none"
 }
 
 function iphone14() {
-priceiPhone2.innerHTML = 'R$ 4.615,00'
+priceiPhone2.innerHTML = 'R$ 4.600,00'
 titlePrice2.innerHTML = 'iPhone 14'
 imageIphone2.src = "..//media/images/iphones/iphone14.png";
 }
@@ -51,7 +51,7 @@ imageIphone2.src = "..//media/images/iphones/iphone14pro.png";
 }
 
 function iphone14pm() {
-priceiPhone2.innerHTML = 'R$ 6.750,00'
+priceiPhone2.innerHTML = 'R$ 5.800,00'
 titlePrice2.innerHTML = 'iPhone 14 Pro Max'
 imageIphone2.src = "..//media/images/iphones/iphone14pm.png";
 }

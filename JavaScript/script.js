@@ -66,19 +66,19 @@ function closeC() {
 
 function iphone15() { 
     titlePrice.innerHTML = 'iPhone 15';
-    priceiPhone.innerHTML = 'R$ 6.700,00';
+    priceiPhone.innerHTML = 'R$ 5.300,00';
     imageIphone.src = "..//media/images/iphones/iphone15.png";
 } 
         
 function iphone15p() {
     titlePrice.innerHTML = 'iPhone 15 Pro';
-    priceiPhone.innerHTML = 'R$ 8.300,00';
+    priceiPhone.innerHTML = 'R$7.000,00';
     imageIphone.src = "..//media/images/iphones/iphone15pro.png";
 }
 
 function iphone15pm() {
     titlePrice.innerHTML = 'iPhone 15 Pro Max';
-    priceiPhone.innerHTML = 'R$ 9.200,00';
+    priceiPhone.innerHTML = 'R$ 8.150,00';
     imageIphone.src = "..//media/images/iphones/iphone15promax.png"; 
 }
      

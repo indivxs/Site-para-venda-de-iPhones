@@ -41,19 +41,19 @@
     }
    
     function iphone13() {
-        priceiPhone3.innerHTML = 'R$ 4.000,00'
+        priceiPhone3.innerHTML = 'R$ 3.450,00'
         titlePrice3.innerHTML = 'iPhone 13'
         imageIphone3.src = "..//media/images/iphones/iphone13.png";
     }
     
     function iphone13p() {
-        priceiPhone3.innerHTML = 'R$ 4.500,00'
+        priceiPhone3.innerHTML = 'R$ 4.300,00'
         titlePrice3.innerHTML = 'iPhone 13 Pro'
         imageIphone3.src = "..//media/images/iphones/iphone13pro.png";
     }
     
     function iphone13pm() {
-        priceiPhone3.innerHTML = 'R$ 5.000,00'
+        priceiPhone3.innerHTML = 'R$ 4.800,00'
         titlePrice3.innerHTML = 'iPhone 13 Pro Max'
         imageIphone3.src = "..//media/images/iphones/iphone13pm.png";
     }

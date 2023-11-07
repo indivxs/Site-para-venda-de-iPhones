@@ -41,19 +41,19 @@ function closeC4() {
 }
 
 function iphone12() {
-    priceiPhone4.innerHTML = 'R$ 2.000,00'
+    priceiPhone4.innerHTML = 'R$ 2.600,00'
     titlePrice4.innerHTML = 'iPhone 12'
     imageIphone4.src = "..//media/images/iphones/iphone12.png";
 }
 
 function iphone12p() {
-    priceiPhone4.innerHTML = 'R$ 3.500,00'
+    priceiPhone4.innerHTML = 'R$ 3.300,00'
     titlePrice4.innerHTML = 'iPhone 12 Pro'
     imageIphone4.src = "..//media/images/iphones/12pro.png";
 }
 
 function iphone12pm() {
-    priceiPhone4.innerHTML = 'R$ 4.200,00'
+    priceiPhone4.innerHTML = 'R$ 4.000,00'
     titlePrice4.innerHTML = 'iPhone 12 Pro Max'
     imageIphone4.src = "..//media/images/iphones/12promax.png";
 }
